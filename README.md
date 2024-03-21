@@ -1,5 +1,4 @@
 # RoboCup CI – 1001 game a night
-[![Project Info](https://img.shields.io/badge/Language-Groovy-green.svg?logo=Groovy&logoColor=fff)](http://groovy-lang.org/) [![Project Info](https://img.shields.io/badge/Language-Python-green.svg?logo=Python&logoColor=fff)](https://www.python.org/) [![Project Info](https://img.shields.io/badge/Framework-Grails-yellow.svg)](https://grails.org/)
 
 ### General Flow
 
