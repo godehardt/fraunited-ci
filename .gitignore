@@ -1,0 +1,15 @@
+.idea
+*.pyc
+.DS_Store
+
+robocup_log_analysor/Robocupjson.json
+
+robocup_log_analysor/Robocup.csv
+
+server/src/main/resources/public
+
+node/public
+node/.env
+node/node_modules
+node/yarn.lock
+node/uploads/*/*

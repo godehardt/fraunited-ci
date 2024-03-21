@@ -1,0 +1,9 @@
+
+
+
+
+### Upload ###TEMP_LOGS_FOLDER=/tmp/robocup/logs/
+orig cwd=/tmp/robocup/robocup_log_analyzerconst cwd=/tmp/robocup/logs<class 'requests.exceptions.ConnectionError'>
+HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /robocup//findInterestingMatches (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff0ae3a8040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+The End of Upload
