@@ -13,9 +13,7 @@ import re
 
 
 def push_to_server(jsonData, commit_id):
-    # serveradress = "https://jenkins.informatik.fb2.hs-intern.de/robocup/match"
-    serveradress = "http://10.18.2.181/api/match"
-    #serveradress = "http://192.168.0.140:8080/robocup/match"
+    serveradress = "http://<servername>/api/match"
 
     key = ""
     source_code = jsonData  # json file muss direkt aus dem code kommen ohne es zwischen zu speichern
